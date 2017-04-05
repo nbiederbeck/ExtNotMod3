@@ -15,5 +15,5 @@
 1. **Make sure you are _Admin_ !!!**
 2. Open Mac App Store and download or update [XCode](https://itunes.apple.com/de/app/xcode/id497799835?mt=12)
 3. Run this script in Terminal
-  1. `bash script.command`
+    1. `bash script.command`
 4. Download ExtNotMod3.exe [here](https://www.svws.nrw.de/fileadmin/user_upload/Module/ExtNotMod3.exe)
