@@ -6,7 +6,7 @@
 1. Open Mac App Store and download or update [XCode](https://itunes.apple.com/de/app/xcode/id497799835?mt=12)
 1. Download ExtNotMod3.exe [here](https://www.svws.nrw.de/fileadmin/user_upload/Module/ExtNotMod3.exe)
 1. Open Terminal (Programmes > Terminal)
-1. Copy [this](https://github.com/noahbiederbeck/extnotmod3formac/blob/master/script.command) script into terminal and press *Enter*
+1. Copy [this](https://github.com/noahbiederbeck/extnotmod3formac/blob/master/script.command) script into Terminal and press *Enter*
 
 ## Usage
 Run "Notenprogramm.command" just like any other Application on your Mac. Use it just as you would on Windows.
