@@ -2,7 +2,7 @@
 
 ## DO THIS NOW
 1. **Make sure you are _Admin_ !!!**
-  - Also make sure you have *time*, as it takes approx. 2-4 hours, depending on your internet connection
+    -Also make sure you have *time*, as it takes approx. 2-4 hours, depending on your internet connection
 1. Open Mac App Store and download or update [XCode](https://itunes.apple.com/de/app/xcode/id497799835?mt=12)
 1. Download ExtNotMod3.exe [here](https://www.svws.nrw.de/fileadmin/user_upload/Module/ExtNotMod3.exe)
 1. Open Terminal (Programmes > Terminal)
