@@ -1,5 +1,9 @@
 # How to install and use ExtNotMod.exe on MacOsX
 
+### Attention!
+This is only tested on a MacBookPro with OsX El Capitan with Homebrew and Wine ***NOT*** installed!
+Use at your own risk.
+
 ## DO THIS NOW
 1. **Make sure you are _Admin_ !!!**
     1. Also make sure you have *time*, as it takes approx. 2-4 hours, depending on your internet connection
