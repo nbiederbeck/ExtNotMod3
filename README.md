@@ -15,3 +15,6 @@
 3. Download ExtNotMod3.exe [here](https://www.svws.nrw.de/fileadmin/user_upload/Module/ExtNotMod3.exe)
 4. Run this script in Terminal
     1. `bash script.command`
+
+## Usage
+Run "Notenprogramm.command" just like any other Application on your Mac. Use it just as you would on Windows.
