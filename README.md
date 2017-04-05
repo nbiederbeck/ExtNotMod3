@@ -1,7 +1,7 @@
 # How to install and use ExtNotMod.exe on MacOsX
 
 ### Attention!
-This is only tested on a MacBookPro with OsX El Capitan with Homebrew and Wine ***NOT*** installed!
+This is only tested on a MacBookPro with OsX El Capitan with Homebrew and Wine prior ***NOT*** installed!
 Use at your own risk.
 
 ## DO THIS NOW
