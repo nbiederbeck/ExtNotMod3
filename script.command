@@ -5,7 +5,7 @@ brew update
 brew update
 brew doctor
 cd /usr/local
-sudo chown -R $(whoami) bin etc include lib sbin share var Frameworks
+sudo chown -R $(whoami) bin etc include lib sbin share var Frameworks opt
 cd $HOME
 brew install wget 
 brew install git
