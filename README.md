@@ -1,7 +1,7 @@
 # Wie installiere und nutze ich ExtNotMod3.exe auf einem Mac?
 
 ### Achtung!
-Diese Anleitung wurde nur auf einem MacBookPro mit frischem OSX El Capitan getestet.
+Diese Anleitung wurde nur auf einem MacBookPro mit frischem Mac OSX El Capitan getestet.
 *Nutzung auf eigene Gefahr!*
 
 ## Anleitung
@@ -12,5 +12,9 @@ Diese Anleitung wurde nur auf einem MacBookPro mit frischem OSX El Capitan getes
     1. Folge den vom Terminal aufgeführten Schritten
 
 ## Nutzung
-Starte "Notenprogramm.command" einfach wie jedes andere Programm (*Doppelklick*).
+Starte "Notenprogramm.command" einfach wie jedes andere Programm *(Doppelklick)*.
 Nutze das Programm wie auf Windows.
+
+### Hinweis
+Die Installation hat auf einem frischen OS ca. 30 min gedauert.
+Diese Zeit kann *erheblich* variieren.
