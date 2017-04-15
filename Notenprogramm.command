@@ -1,1 +1,1 @@
-wine extnotmod3.exe
+wine $HOME/extnotmod3formac/ExtNotMod3.exe
