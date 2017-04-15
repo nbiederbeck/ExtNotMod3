@@ -19,3 +19,4 @@ chmod +x winetricks
 sh winetricks mdac28
 mv $HOME/Downloads/ExtNotMod3.exe $HOME/extnotmod3formac
 chmod +x Notenprogramm.command
+exit
