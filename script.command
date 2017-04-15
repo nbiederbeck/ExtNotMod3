@@ -7,8 +7,8 @@ brew doctor
 cd /usr/local
 sudo chown -R $(whoami) bin etc include lib sbin share var Frameworks opt
 cd $HOME
-brew install wget 
-brew install git
+brew cask install xquartz
+brew install wget
 brew install wine
 brew update
 cd $HOME
