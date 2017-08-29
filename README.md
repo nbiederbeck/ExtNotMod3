@@ -1,5 +1,9 @@
+### todo
+- [ ] Makefile
+  - [ ] check whether `make` is installed by default on macos
+
 # Wie installiere und nutze ich ExtNotMod3.exe auf einem Mac?
-[Link](https://nonator.github.io/ExtNotMod3/)
+[Website](https://nonator.github.io/ExtNotMod3/)
 
 ### Achtung!
 Diese Anleitung wurde nur auf einem MacBookPro mit frischem Mac OSX El Capitan getestet.
